@@ -49,3 +49,16 @@ Check out the [deployment documentation](https://nuxt.com/docs/getting-started/d
 git config user.name sixmillions
 git config user.email liubw95@163.com
 ```
+
+# demo
+
+```
+npx nuxi init nuxt3-blo
+cd nuxt3-blog && pnpm i
+
+# https://tailwindcss.nuxtjs.org/getting-started/setup
+pnpm i -D @nuxtjs/tailwindcss
+
+# https://daisyui.com/docs/install/
+pnpm i daisyui
+```
