@@ -74,6 +74,12 @@ pnpm install vditor
 > https://github.com/Vanessa219/vditor/issues/1151
 
 
-```ts
+## v-md-editor
 
+```bash
+pnpm install @kangc/v-md-editor@next
 ```
+
+> https://code-farmer-i.github.io/vue-markdown-editor/zh/quick-start.html
+
+> https://nuxt.com/docs/guide/directory-structure/plugins#vue-plugins
