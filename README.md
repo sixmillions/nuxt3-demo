@@ -62,3 +62,18 @@ pnpm i -D @nuxtjs/tailwindcss
 # https://daisyui.com/docs/install/
 pnpm i daisyui
 ```
+
+## vditor
+
+```bash
+pnpm install vditor
+```
+
+> https://b3log.org/vditor/demo/vue.html
+
+> https://github.com/Vanessa219/vditor/issues/1151
+
+
+```ts
+
+```
